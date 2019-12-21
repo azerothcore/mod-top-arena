@@ -4,6 +4,6 @@
 # CUSTOM
 #
 
-    DB_WORLD_CUSTOM_PATHS+=(
-        $MOD_TOP_ARENA_ROOT"/sql/"
-        )
+DB_WORLD_CUSTOM_PATHS+=(
+    $MOD_TOP_ARENA_ROOT"/sql/"
+)
