@@ -3,7 +3,7 @@
 -- --------------------------------------------------------------------------------------
 SET
 @Entry 		:= 55333,
-@Model 		:= 31833, -- Goblin Banker
+@Model 		:= 31833, -- Blood Elf
 @Name 		:= "Destroyer",
 @Title 		:= "Top Arena Ranking",
 @Icon 		:= "LootAll",
