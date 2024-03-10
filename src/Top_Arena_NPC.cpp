@@ -196,7 +196,7 @@ class Top_Arena_NPC : public CreatureScript
 
                         // no team found
                         if(!result) {
-                            SendNotification(player->GetSession(), "Arena team not found...");
+                            player->GetSession()->SendNotification("Arena team not found...");
                             player->PlayerTalkClass->SendCloseGossip();
                             return true;
                         }
